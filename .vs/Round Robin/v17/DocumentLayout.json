@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pin\\H\u1EC7 \u0111i\u1EC1u h\u00E0nh\\thuy\u1EBFt tr\u00ECnh 01\\Round Robin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E5092C-ED77-430B-A8B7-A492A5933A0C}|Round Robin\\Round Robin.vcxproj|D:\\pin\\H\u1EC7 \u0111i\u1EC1u h\u00E0nh\\thuy\u1EBFt tr\u00ECnh 01\\Round Robin\\Round Robin\\Round Robin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50E5092C-ED77-430B-A8B7-A492A5933A0C}|Round Robin\\Round Robin.vcxproj|solutionrelative:Round Robin\\Round Robin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Round Robin.cpp",
+              "DocumentMoniker": "D:\\pin\\H\u1EC7 \u0111i\u1EC1u h\u00E0nh\\thuy\u1EBFt tr\u00ECnh 01\\Round Robin\\Round Robin\\Round Robin.cpp",
+              "RelativeDocumentMoniker": "Round Robin\\Round Robin.cpp",
+              "ToolTip": "D:\\pin\\H\u1EC7 \u0111i\u1EC1u h\u00E0nh\\thuy\u1EBFt tr\u00ECnh 01\\Round Robin\\Round Robin\\Round Robin.cpp",
+              "RelativeToolTip": "Round Robin\\Round Robin.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAQwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T07:04:36.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
